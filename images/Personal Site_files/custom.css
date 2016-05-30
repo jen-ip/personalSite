@@ -13,12 +13,11 @@ html{
 
 }
 #header {
+	background-color: rgba(246, 88, 65, 1);
 
 }
 nav {
 	text-align: center;
-	background-color: rgba(246, 88, 65, 1);
-
 }
 
 nav ul{
@@ -43,16 +42,13 @@ nav ul li{
 
 nav ul li:hover{
 	color: rgba(0, 0, 0, 1);
-	text-decoration: none;
 }
 
 nav ul li:visited{
 	color: rgba(0, 0, 0, .5);
-	text-decoration: none;
 }
 nav ul li:active{
 	color: rgba(0, 0, 0, 1);
-	text-decoration: none;
 
 }
 #jen {
@@ -78,7 +74,7 @@ p{
 }
 
 h1 {
-	padding-top: 50px;
+	padding-top: 20px;
 }
 h4 {
 	color: rgba(246, 88, 65, 1);
@@ -110,12 +106,12 @@ h4 {
 }
 footer {
 	font-size: 10px;
-	background-color: rgba(230, 230, 230, 1);
-	padding: 0px 0px 30px 0px;
 }
 ul {
 	list-style: none;
 	padding: 10px 10px 10px 0px;
 	margin: 0px;
 }
+
+#
 
