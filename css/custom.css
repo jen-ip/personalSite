@@ -28,7 +28,7 @@ nav {
 	top: 0px;
 	width: 100%;
 	background-color: rgba(246, 88, 65, 1);
-	padding: 50px 0px 0px;
+	padding: 40px 0px 0px;
 }
 
 nav ul{
@@ -88,7 +88,7 @@ nav ul li a:active{
 	margin: 0px 20px 0px;
 }
 body{
-
+	margin: 50px 0px 0px;
 }
 p{
 	line-height: 20px;
